@@ -12,7 +12,6 @@ import re
 import bareunpy as brn
 import gensim
 from gensim.models.coherencemodel import CoherenceModel
-import plotly.graph_objects as go
 import string
 from scipy.stats import f_oneway
 import statsmodels.api as sm
